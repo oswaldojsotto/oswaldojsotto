@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Oswaldo J. Sotto</h1>
 <h3 align="left">Web Developer with 5+ years of experience, focused on Front-End development, specializing in TypeScript, React and Next.js. Studies in Computer Science with a focus on designing and developing dynamic interfaces and scalable web applications, committed to creating efficient, high-impact digital experiences.</h3>
 
-- 👨‍💻 Some of my projects are available at https://oswaldo.site
+- 👨‍💻 Some of my projects are available at https://oswaldo.info
 
 - 📫 How to reach me **oswaldojsotto@gmail.com**
 
